@@ -49,7 +49,8 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div> 
-  🛠 <b>programas usados:</b>
+🛠 <b>programas usados:</b>
+  
 ✦MySQL Workbench
 
 ✦PowerBi
