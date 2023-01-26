@@ -18,10 +18,46 @@ Neste projeto deve-se montar um dashboard com um conjunto de dados que foi forne
 <div> 
 League of Legends é um jogo de estratégia em que duas equipes de cinco poderosos Campeões se enfrentam para destruir a base uma da outra. Escolha entre mais de 140 Campeões para realizar jogadas épicas, assegurar abates e destruir torres conforme você luta até a vitória.
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div> 
 <b>DESTRUA A BASE</b>
 </div>
 <div>
 O Nexus é o coração da base de uma equipe. Destrua o Nexus inimigo primeiro para vencer a partida.Seu Nexus é de onde suas tropas surgem. Atrás dele está a fonte, onde você pode rapidamente recuperar Vida e Mana e acessar a loja.
+</div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div> 
+  <b> ABRA CAMINHO</b>
+ ABRA CAMINHO
+Sua equipe precisa avançar por pelo menos uma rota para chegar ao Nexus inimigo, contendo em seu caminho estruturas defensivas chamadas de torres e inibidores. Cada rota tem três torres e um inibidor, e cada Nexus é protegido por duas torres.
+</div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+  <b>ENTRANDO NA SELVA </b>
+ Entre as rotas, está a selva, onde monstros neutros e plantas ficam. Os dois tipos de monstros mais importantes são o Barão Na’Shor e os dragões, pois abater essas unidades concede efeitos exclusivos para sua equipe e pode mudar o rumo da partida.
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div> 
+  <b>ESCOLHA SUA ROTA </b>
+Existem cinco posições que integram a composição de equipe recomendada para o jogo. Cada rota combina melhor com certos tipos de Campeões e funções, então experimente todas elas ou foque na rota que mais lhe agradar.
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div> 
+<b> FORTALEÇA SEU CAMPEÃO </b>
+ Campeões ficam mais fortes obtendo experiência para subir de nível e adquirindo ouro para comprar itens mais poderosos conforme a partida progride. Manter a atenção nesses dois fatores é crucial para superar a outra equipe e destruir a base inimiga.
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div> 
+<b> COMECE A JOGAR</b>
+</div>
+
+<div> 
+  🛠 <b>programas usados:</b>
+✦MySQL Workbench
+
+✦PowerBi
+
+✦Github
+
+✦Miro
 </div>
