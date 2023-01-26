@@ -47,9 +47,6 @@ Existem cinco posições que integram a composição de equipe recomendada para 
  Campeões ficam mais fortes obtendo experiência para subir de nível e adquirindo ouro para comprar itens mais poderosos conforme a partida progride. Manter a atenção nesses dois fatores é crucial para superar a outra equipe e destruir a base inimiga.
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div> 
-<b> COMECE A JOGAR</b>
-</div>
 
 <div> 
   🛠 <b>programas usados:</b>
@@ -60,4 +57,12 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 ✦Github
 
 ✦Miro
+</div>
+
+
+<div>
+  <b> Diagrama do banco de dados, modelo de dados para organização das perguntas</b>
+  
+![image](https://user-images.githubusercontent.com/113906994/214729443-cca42820-4ecc-43f2-a6e0-6b91e43b3b69.png)
+
 </div>
