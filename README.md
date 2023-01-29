@@ -64,6 +64,7 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <div>
   <b> Diagrama do banco de dados, modelo de dados para organização das perguntas</b>
   
-![image](https://user-images.githubusercontent.com/113906994/214729443-cca42820-4ecc-43f2-a6e0-6b91e43b3b69.png)
+![image](https://user-images.githubusercontent.com/113906994/215330611-525332ef-3d94-4ff4-af17-09a3ca231361.png)
+
 
 </div>
