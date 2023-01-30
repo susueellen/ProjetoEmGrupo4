@@ -1,4 +1,4 @@
-# teste trabalho em grupo módulo 4 
+#  trabalho em grupo módulo 4 
 
 Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre o tema decidido, além de fazer uma página web para visualização das informações coletadas. 
 
@@ -51,30 +51,49 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <div> 
 🛠 <b>programas usados:</b>
   
-✦MySQL Workbench
-
-✦PowerBi
+✦PHP MyAdmin
 
 ✦Github
 
 ✦Miro
 </div>
 
+<h1>Modelo Relacional</h1>
+
 
 <div>
-  <b> Diagrama do banco de dados, modelo de dados para organização das perguntas</b>
+
+
+  <b><h1> Diagrama do banco de dados, modelo de dados para organização das perguntas</b></h1>
   
 ![image](https://user-images.githubusercontent.com/113906994/215330611-525332ef-3d94-4ff4-af17-09a3ca231361.png)
 
 
 </div>
 <div>
-✦ Qual o mostro mais farmado
+
+<h1>📝Consultas</h1>
+Na documentação foi realizado a extração das informações, que seriam necessárias para construção do db.
+
+★ <h1>Quais mostros mais farmados:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/215381180-bbeb43a2-62fd-4869-850c-4b4cfd86474b.png)
 
-
-✦ Gráfico 
+ 
+✦<h1> Gráfico </h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/215381412-70f22b1a-d567-4c98-997a-8753ce0fe62e.png)
 </div>
+-----------------------------------------------------------------------------------------------------------------------------
+
+<h1>Quais campeões levaram mais ban:</h1>
+
+![image](https://user-images.githubusercontent.com/113906994/215389756-30ebe917-5fcc-4918-92b2-0819020aa6b0.png)
+
+
+ <h1>Gráfico: </h1>
+ 
+ 
+![image](https://user-images.githubusercontent.com/113906994/215391131-afe58df3-ee8d-495b-a4b2-60abffa31a04.png)
+
+
