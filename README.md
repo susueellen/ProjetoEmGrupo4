@@ -68,3 +68,13 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 
 
 </div>
+<div>
+✦ Qual o mostro mais farmado
+
+![image](https://user-images.githubusercontent.com/113906994/215381180-bbeb43a2-62fd-4869-850c-4b4cfd86474b.png)
+
+
+✦ Gráfico 
+
+![image](https://user-images.githubusercontent.com/113906994/215381412-70f22b1a-d567-4c98-997a-8753ce0fe62e.png)
+</div>
