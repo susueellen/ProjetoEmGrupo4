@@ -2,9 +2,42 @@
 
 Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre o tema decidido, além de fazer uma página web para visualização das informações coletadas. 
 
+<h1>SQUAD </h1>
+
+Links:
+
+<h1>Suellen Siqueira:</h1>
+<div align="inline_block">
+  <a href="https://www.linkedin.com/in/suellen-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
+</div>
+
+
+<h1>Leonardo Braga:</h1>
+<div align="inline_block">
+  <a href="https://www.linkedin.com/in/leonardo-braga-233776251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
+</div>
+
+
+<h1>Cailan Aranha:</h1>
+<div align="inline_block">
+  <a href="https://www.linkedin.com/in/cailan-aranha-081906251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
+</div>
+
+<h1>Diego Carvalho:</h1>
+<div align="inline_block">
+  <a href="https://www.linkedin.com/in/diego-carvalho-feitosa-4b3940252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div>
 <B>TEMA ESCOLHIDO: LEAGUE OF LEGENDES</B>
 
-<div>❯ LoL: O League of Legends, ou “LoL“, em sua forma abreviada, é um jogo eletrônico que faz parte da categoria MOBA (multiplayer online battle arena). O jogo foi desenvolvido pela Riot Games para Windows e para Mac é foi publicado em 2009. É um jogo gratuito, que foi inspirado no modo Defense of the Ancients (Dota) do Warcraft 3: The Frozen Throne. 
+ LoL: O League of Legends, ou “LoL“, em sua forma abreviada, é um jogo eletrônico que faz parte da categoria MOBA (multiplayer online battle arena). O jogo foi desenvolvido pela Riot Games para Windows e para Mac é foi publicado em 2009. É um jogo gratuito, que foi inspirado no modo Defense of the Ancients (Dota) do Warcraft 3: The Frozen Throne. 
 </div>
 
 <div> 
