@@ -1,4 +1,4 @@
-#  trabalho em grupo módulo 4 
+#  Trabalho em grupo módulo 4 
 
 Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre o tema decidido, além de fazer uma página web para visualização das informações coletadas. 
 
@@ -89,6 +89,8 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 ✦Github
 
 ✦Miro
+
+✦Canva
 </div>
 
 <h1>Modelo Relacional</h1>
@@ -97,7 +99,7 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <div>
 
 
-  <b><h1> Diagrama do banco de dados, modelo de dados para organização das perguntas</b></h1>
+  <b><h1> Diagrama do banco de dados, modelo de dados para organização das perguntas escolhidas pelo grupo</b></h1>
   
 ![image](https://user-images.githubusercontent.com/113906994/215330611-525332ef-3d94-4ff4-af17-09a3ca231361.png)
 
@@ -108,7 +110,7 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <h1>📝Consultas</h1>
 Na documentação foi realizado a extração das informações, que seriam necessárias para construção do db.
 
-★ <h1>Quais mostros mais farmados:</h1>
+★ <h1>Quais monstros mais farmados:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/215381180-bbeb43a2-62fd-4869-850c-4b4cfd86474b.png)
 
