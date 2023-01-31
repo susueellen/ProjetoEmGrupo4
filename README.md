@@ -1,37 +1,29 @@
-#  Trabalho em grupo módulo 4 
+                                                      #  Trabalho em grupo módulo 4
 
-Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre o tema decidido, além de fazer uma página web para visualização das informações coletadas. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DO+LOL)](https://git.io/typing-svg)
 
+
+Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre League of legendes, além de fazer uma página web para visualização das informações coletadas. 
 <h1>SQUAD </h1>
 
-Links:
-
-<h1>Suellen Siqueira:</h1>
-<div align="inline_block">
+ <img src="https://avatars.githubusercontent.com/u/113906994?v=4" width=115><br><sub>  suellen siqueira   <div align="inline_block">
   <a href="https://www.linkedin.com/in/suellen-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a>
-</div>
-
-
-<h1>Leonardo Braga:</h1>
-<div align="inline_block">
-  <a href="https://www.linkedin.com/in/leonardo-braga-233776251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  <img src="https://avatars.githubusercontent.com/u/113364230?v=4" width=115><br><sub>  Leonardo Braga   <div align="inline_block">
+ <a href="https://www.linkedin.com/in/leonardo-braga-233776251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a>
-</div>
-
-
-<h1>Cailan Aranha:</h1>
-<div align="inline_block">
-  <a href="https://www.linkedin.com/in/cailan-aranha-081906251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  <img src="https://avatars.githubusercontent.com/u/113363913?v=4" width=115><br><sub>  Cailan Aranha   <div align="inline_block">
+ <a href="https://www.linkedin.com/in/cailan-aranha-081906251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a>
-</div>
-
-<h1>Diego Carvalho:</h1>
-<div align="inline_block">
-  <a href="https://www.linkedin.com/in/diego-carvalho-feitosa-4b3940252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+  <img src="https://avatars.githubusercontent.com/u/113364227?v=4" width=115><br><sub>  Diego Carvalho   <div align="inline_block">
+ <a href="https://www.linkedin.com/in/diego-carvalho-feitosa-4b3940252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a>
-</div>
 
+ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div>
