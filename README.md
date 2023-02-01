@@ -104,12 +104,13 @@ Na documentação foi realizado a extração das informações, que seriam neces
 
 ★ <h1>Quais monstros mais farmados:</h1>
 
-![image](https://user-images.githubusercontent.com/113906994/215381180-bbeb43a2-62fd-4869-850c-4b4cfd86474b.png)
+![image](https://user-images.githubusercontent.com/113906994/216159443-20d61b0d-1d32-4850-9121-a8099627f51b.png)
 
  
 ✦<h1> Gráfico </h1>
 
-![image](https://user-images.githubusercontent.com/113906994/215381412-70f22b1a-d567-4c98-997a-8753ce0fe62e.png)
+![image](https://user-images.githubusercontent.com/113906994/216159975-19f5d409-005a-462b-a742-abf224fe55cc.png)
+
 </div>
 -----------------------------------------------------------------------------------------------------------------------------
 
