@@ -108,10 +108,8 @@ Na documentação foi realizado a extração das informações, que seriam neces
 ![image](https://user-images.githubusercontent.com/113906994/217069923-a7dadd97-e48f-4879-934b-71ec104a788c.png)
 
 
-![image](https://user-images.githubusercontent.com/113906994/216159443-20d61b0d-1d32-4850-9121-a8099627f51b.png)
-
  
-✦<h1> Gráfico monstros mais farmados</h1>
+✦<h1> Gráfico monstros mais farmados:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/216159975-19f5d409-005a-462b-a742-abf224fe55cc.png)
 
@@ -119,8 +117,8 @@ Na documentação foi realizado a extração das informações, que seriam neces
 -----------------------------------------------------------------------------------------------------------------------------
 <div id="graf2">
 <h1>Quais campeões levaram mais ban:</h1>
-
-![image](https://user-images.githubusercontent.com/113906994/215389756-30ebe917-5fcc-4918-92b2-0819020aa6b0.png)
+ 
+![image](https://user-images.githubusercontent.com/113906994/217105289-5e899bab-47ba-4a79-9447-edad363d5fcf.png)
 
 
  <h1>Gráfico campeões que levaram mais ban: </h1>
@@ -131,8 +129,10 @@ Na documentação foi realizado a extração das informações, que seriam neces
 ------------------------------------------------------------------------------------------------------------------------------
 <div="graf3">
  <h1>Quem matou mais na partida:</h1>
+ 
+![image](https://user-images.githubusercontent.com/113906994/217106297-5a3da4b8-8298-41fa-8f1c-10d73b690f9f.png)
 
-![image](https://user-images.githubusercontent.com/113906994/217087751-4c306f45-c3ea-42ce-8c90-92c3a2572e18.png)
+
 
 <h1>Gráfico quem matou mais na partida: </h1>
 
@@ -142,8 +142,9 @@ Na documentação foi realizado a extração das informações, que seriam neces
 -----------------------------------------------------------------------------------------------------------------------------
 <div="graf4">
 <h1>Quais os campos mais escolhidos no time azul:</h1>
+ 
+ ![image](https://user-images.githubusercontent.com/113906994/217107097-2f28e957-4adc-4b93-9e21-79132b4e095e.png)
 
- ![image](https://user-images.githubusercontent.com/113906994/217099891-cd588ba9-03ec-43a4-805d-305e08e80ca2.png)
 
 <h1>Gráfico quais campos mais escolhidos: </h1>
  
