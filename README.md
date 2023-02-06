@@ -1,4 +1,4 @@
-                                                      #  Trabalho em grupo módulo 4
+<h1> Trabalho em grupo módulo 4 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DO+LOL)](https://git.io/typing-svg)
 
@@ -104,6 +104,9 @@ Na documentação foi realizado a extração das informações, que seriam neces
 
 ★ <h1>Quais monstros mais farmados:</h1>
 
+![image](https://user-images.githubusercontent.com/113906994/217069923-a7dadd97-e48f-4879-934b-71ec104a788c.png)
+
+
 ![image](https://user-images.githubusercontent.com/113906994/216159443-20d61b0d-1d32-4850-9121-a8099627f51b.png)
 
  
@@ -124,4 +127,16 @@ Na documentação foi realizado a extração das informações, que seriam neces
  
 ![image](https://user-images.githubusercontent.com/113906994/215391131-afe58df3-ee8d-495b-a4b2-60abffa31a04.png)
 
+------------------------------------------------------------------------------------------------------------------------------
+<h1>Quem matou mais na partida:</h1>
+
+![image](https://user-images.githubusercontent.com/113906994/217087751-4c306f45-c3ea-42ce-8c90-92c3a2572e18.png)
+
+<h1>Gráfico: </h1>
+
+ ![image](https://user-images.githubusercontent.com/113906994/217087987-1cf331ca-36e9-48be-b3dc-38d3f0252045.png)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+<h1>Quais os campos mais escolhidos no time azul:</h1>
 
