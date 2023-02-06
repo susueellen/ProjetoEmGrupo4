@@ -102,6 +102,7 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <h1>📝Consultas</h1>
 Na documentação foi realizado a extração das informações, que seriam necessárias para construção do db.
 
+ <div id="graf1">
 ★ <h1>Quais monstros mais farmados:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/217069923-a7dadd97-e48f-4879-934b-71ec104a788c.png)
@@ -110,33 +111,46 @@ Na documentação foi realizado a extração das informações, que seriam neces
 ![image](https://user-images.githubusercontent.com/113906994/216159443-20d61b0d-1d32-4850-9121-a8099627f51b.png)
 
  
-✦<h1> Gráfico </h1>
+✦<h1> Gráfico monstros mais farmados</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/216159975-19f5d409-005a-462b-a742-abf224fe55cc.png)
 
 </div>
 -----------------------------------------------------------------------------------------------------------------------------
-
+<div id="graf2">
 <h1>Quais campeões levaram mais ban:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/215389756-30ebe917-5fcc-4918-92b2-0819020aa6b0.png)
 
 
- <h1>Gráfico: </h1>
+ <h1>Gráfico campeões que levaram mais ban: </h1>
  
  
 ![image](https://user-images.githubusercontent.com/113906994/215391131-afe58df3-ee8d-495b-a4b2-60abffa31a04.png)
-
+ </div>
 ------------------------------------------------------------------------------------------------------------------------------
-<h1>Quem matou mais na partida:</h1>
+<div="graf3">
+ <h1>Quem matou mais na partida:</h1>
 
 ![image](https://user-images.githubusercontent.com/113906994/217087751-4c306f45-c3ea-42ce-8c90-92c3a2572e18.png)
 
-<h1>Gráfico: </h1>
+<h1>Gráfico quem matou mais na partida: </h1>
 
- ![image](https://user-images.githubusercontent.com/113906994/217087987-1cf331ca-36e9-48be-b3dc-38d3f0252045.png)
-
+ ![image](https://user-images.githubusercontent.com/113906994/217100926-de01ff44-cf2c-44cd-9917-d9dac200dc68.png)
+ 
+ </div>
 -----------------------------------------------------------------------------------------------------------------------------
-
+<div="graf4">
 <h1>Quais os campos mais escolhidos no time azul:</h1>
 
+ ![image](https://user-images.githubusercontent.com/113906994/217099891-cd588ba9-03ec-43a4-805d-305e08e80ca2.png)
+
+<h1>Gráfico quais campos mais escolhidos: </h1>
+ 
+ ![image](https://user-images.githubusercontent.com/113906994/217100134-42855a81-5315-43e0-9bbf-efedcc1f1b20.png)
+ </div>
+
+ 
+ 
+ 
+ 
