@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DO+LOL)](https://git.io/typing-svg)
 
 
-Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para cinco perguntas que o grupo escolher, sobre League of legendes, além de fazer uma página web para visualização das informações coletadas. 
+Neste projeto deve-se montar um dashboard com um conjunto de dados que foi fornecido pela Resilia, vamos analisar e trasformar os dados em gráficos e respostas para quatro perguntas que o grupo escolher, sobre League of legendes.
 <h1>SQUAD </h1>
 
  <img src="https://avatars.githubusercontent.com/u/113906994?v=4" width=115><br><sub>  suellen siqueira   <div align="inline_block">
@@ -100,7 +100,10 @@ Existem cinco posições que integram a composição de equipe recomendada para 
 <div>
 
 <h1>📝Consultas</h1>
-Na documentação foi realizado a extração das informações, que seriam necessárias para construção do db.
+Na documentação foi realizado a extração das informações, que seriam necessárias para construção do db, a consulta
+foi realizada pelo PHP MyAdmin utilizando o banco de dados que a Resilia forneceu, no PHP MyAdmin foi importado as
+tabelas com os dados de League of Legends, e a partir disso foi formulado quatro perguntas pelo squad e a partir daí 
+fazer a consulta com os códigos para realização das respostas, os gráficos o próprio PHP MyAdmin forneceu. 
 
  <div id="graf1">
 ★ <h1>Quais monstros mais farmados:</h1>
@@ -141,12 +144,12 @@ Na documentação foi realizado a extração das informações, que seriam neces
  </div>
 -----------------------------------------------------------------------------------------------------------------------------
 <div="graf4">
-<h1>Quais as estruturas  mais destruidas no time:</h1>
+<h1>Quais as estruturas  mais destruídas no time:</h1>
  
  ![image](https://user-images.githubusercontent.com/113906994/217107097-2f28e957-4adc-4b93-9e21-79132b4e095e.png)
 
 
-<h1>Gráfico quais campos mais escolhidos: </h1>
+<h1>Gráfico quais estruturas mais destruídas : </h1>
  
  ![image](https://user-images.githubusercontent.com/113906994/217100134-42855a81-5315-43e0-9bbf-efedcc1f1b20.png)
  </div>
