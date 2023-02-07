@@ -141,7 +141,7 @@ Na documentação foi realizado a extração das informações, que seriam neces
  </div>
 -----------------------------------------------------------------------------------------------------------------------------
 <div="graf4">
-<h1>Quais os campos mais escolhidos no time azul:</h1>
+<h1>Quais as estruturas  mais destruidas no time:</h1>
  
  ![image](https://user-images.githubusercontent.com/113906994/217107097-2f28e957-4adc-4b93-9e21-79132b4e095e.png)
 
